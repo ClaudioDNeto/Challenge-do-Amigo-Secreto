@@ -10,6 +10,10 @@ Uma aplicação web simples para realizar sorteios de amigo secreto de forma rá
 - Sorteio aleatório garantindo que ninguém tire a si mesmo
 
 ---
+# Veja o resultado
+
+https://claudiodneto.github.io/Challenge-do-Amigo-Secreto
+---
 
 ##  Como rodar localmente
 
